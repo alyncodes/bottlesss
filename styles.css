@@ -2,18 +2,15 @@ body {
     margin: 0;
     height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
     background: linear-gradient(135deg, #ffefd5, #ffe4e1, #f0e68c);
     font-family: 'Arial', sans-serif;
     text-align: center;
 }
 
 .container img {
-    width: 60%;
+    width: 30%;
     height: auto;
     border-radius: 10px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
     margin: 20px 0;
 }
 
